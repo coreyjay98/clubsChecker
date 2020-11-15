@@ -1,0 +1,49 @@
+body {
+  background-color: #edf2f4;
+}
+
+.pageDiv {
+  text-align: center;
+  border: 2px solid #8d99ae;
+  border-radius: 15px;
+  margin: 40px;
+  padding: 20px;
+}
+.pageTitle {
+  color: #2b2d42;
+  font-size: 28px;
+}
+.pageDescription {
+  font-size: 16px;
+  color: #2b2d42;
+}
+.statsForm {
+  display: inline-block;
+  justify-content: center;
+  text-align: center;
+}
+li {
+  list-style-type: none;
+  margin: 10px;
+}
+input {
+  width: 40px;
+}
+.name {
+  width: 80px;
+}
+.resultDiv {
+  text-align: center;
+  border: 2px solid #8d99ae;
+  border-radius: 15px;
+  margin: 40px;
+  padding: 20px;
+}
+
+.red {
+  background-color: orangered;
+}
+
+.orange {
+  background-color: orange;
+}
